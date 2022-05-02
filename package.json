@@ -1,0 +1,25 @@
+{
+  "name": "shapez.io-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bigmancozmo/shapez.io-clone.git"
+  },
+  "author": "BigmancozmoPlayz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bigmancozmo/shapez.io-clone/issues"
+  },
+  "homepage": "https://github.com/Bigmancozmo/shapez.io-clone#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.0",
+    "multer": "^1.4.4"
+  }
+}
